@@ -257,6 +257,7 @@ pre {
 .docs-main .grid {
     grid-template-columns: 1fr 2fr;
     align-items: flex-start;
+    overflow: hidden;
 }
 
 .docs-main nav li {
@@ -386,7 +387,10 @@ pre {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
-    .showcase-form .docs-main {
+
+   
+    
+    .showcase-form {
         width: 300px;
     }
 }
