@@ -375,7 +375,7 @@ pre {
 
 /* Mobile */
 
-@media(max-width: 300px) {
+@media(max-width: 500px) {
     .navbar {
     height: 110px;
 }
@@ -385,6 +385,9 @@ pre {
     .navbar ul {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
+    }
+    .showcase-form .docs-main {
+        width: 300px;
     }
 }
 
