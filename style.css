@@ -333,6 +333,10 @@ pre {
         grid-template-columns: 1fr;
         grid-template-rows:  1fr;
     } 
+
+    .docs-main {
+        margin: 10px;
+    }
     
     .showcase {
         height: auto;
@@ -387,9 +391,9 @@ pre {
         padding: 10px;
         background-color: rgba(0, 0, 0, 0.1);
     }
-
-   
-    
+    .docs-main {
+        margin-left: 10px;
+    }
     .showcase-form {
         width: 300px;
     }
